@@ -11,7 +11,6 @@ class Node {
         this.right = null;
     }
 }
-
 public class P04_BSTTraversalSearch {
 
     public static Node insert(Node root, int data) {
